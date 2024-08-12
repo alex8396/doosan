@@ -1,0 +1,27 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+@import url(http://fonts.googleapis.com/earlyaccess/hanna.css);
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Noto+Sans+KR:wght@100&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&display=swap');
+*{
+	font-family:  'Nanum Gothic';
+}
+h1 {
+	font-family: 'Hanna';
+}
+h2 {
+	font-family: 'Hanna';
+}
+h3 {
+	font-family: 'Hanna';
+}
+ p{
+ 	font-family: 'Lato', sans-serif;
+ }
+ h4{
+font-family: 'Black Han Sans', sans-serif;
+ }
+ span{
+font-family: 'Black Han Sans', sans-serif;
+ }
+ 
